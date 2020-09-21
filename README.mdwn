@@ -1,0 +1,46 @@
+Capstone 4 - Certificate of Deposit Survay and Predition
+
+1) Intro
+    - Objective: Predict 2020 CD rates and terms.
+    - Reason: Market/Advertise future terms and rates to obtain new deposits by next quarter.
+    - Recommendations:
+        - 3 to 12 months will 
+    - Next Steps:
+        - Check account opening requirements.
+        - Research competitor banks' rates.
+        - Work with the marketing and product team for prior ads on CD terms.
+        - Meet with compliance team to review disclosures.
+
+Market Research
+
+2) Community Banks in the US
+    - Number of community banks in the US is very high.
+    - Low number of non-community banks reported to FDIC.
+
+3) Top 5 NY Banks
+    - Based on the total deposits.
+    - #1 bank with highest total deposits is Bank of New York Mellon.
+    - Signature Bank is the only community bank with highest total deposits.
+
+4) NY Community Banks Total Deposits
+    - As of Q2 2020.
+    - Apple Bank has over $13M of total deposits.
+
+4) 2018 CD Terms
+    - Total CD deposits per term by quarter
+    - NY only.
+    - Terms held steady each quarter. Most popular term is 3 to 12 months.
+
+5) 2019 CD Terms
+    - 1 to 3 year terms is higher in 2018 than 2019.
+
+6) National Rates
+
+
+6) 2020 Predicted vs. Actual CD Rates
+
+
+Sources:
+    - Federal Deposit Insurance Corporation
+
+    Exponential model
