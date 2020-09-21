@@ -42,5 +42,3 @@ Market Research
 
 Sources:
     - Federal Deposit Insurance Corporation
-
-    Exponential model
