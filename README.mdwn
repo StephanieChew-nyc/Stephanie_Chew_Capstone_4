@@ -1,5 +1,5 @@
 # Capstone 4
-## Certificate of Deposit Survay and Predition
+## Certificate of Deposit Survay and Prediction
 
 * **Objective:** Predict 2020 CD rates and which is the most popular CD term to create marketing campaign.
 * **Reason:** Market/Advertise future terms and rates to obtain new deposits by next quarter.
