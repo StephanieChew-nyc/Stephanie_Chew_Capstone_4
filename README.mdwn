@@ -1,15 +1,18 @@
 # Capstone 4
 ## Certificate of Deposit Survay and Prediction
 
-* **Objective:** Predict 2020 CD rates according to the prior quarterly reports, and which is the most popular CD term to create marketing campaign.
-* **Reason:** Market/Advertise future terms and rates to obtain new deposits by next quarter.
+* **Objective:** Analyze 2020 CD rates according to the prior quarterly reports, and which is the most popular CD term to create the next marketing campaign.
+* **Reason:** Market/Advertise CD terms and rates to obtain new deposits.
 * **Recommendations:**
     * 3 to 12 months are popular terms and recommend create marketing promotions.
     * After people files their taxes, they may need to open and invest CD accounts.
+    * Apple Bank's 1-year CD promotion support this recommendation.
 * **Next Steps:**
     * Check account opening requirements by following legal guidelines.
-    * Research competitor banks' rates and terms.
-    * Work with the marketing and product team for prior ads on CD terms.
+    * Market research competitor banks' rates and terms.
+    * Work with the marketing and product team to create the campaign.
     * Meet with compliance team to review disclosures.
+
+**Programs/Languages Used:** Python, Pandas, Seaborn, Tableau.
 
 **Source:** [Federal Deposit Insurance Corporation](https://www.fdic.gov/)
