@@ -1,5 +1,5 @@
 # Capstone 4
-## Certificate of Deposit Survay and Competitor Banks Report
+## Certificate of Deposit Survey and Competitor Banks Report
 
 * **Objective:** Analyze 2020 CD rates according to the prior quarterly reports, and which is the most popular CD term to create the next marketing campaign.
 * **Reason:** Market/Advertise CD terms and rates to obtain new deposits.
